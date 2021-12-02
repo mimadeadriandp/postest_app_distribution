@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "372104265293",
+    "project_id": "ci-cd-training-fbfc4",
+    "storage_bucket": "ci-cd-training-fbfc4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372104265293:android:eb080c4d75ac5e838ce604",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app_distribution"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "372104265293-m6nlg576p5jkfg7vksvr8lth8v9euelk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeY6dYLohFnY7n8tFQ8nsOK6KZhYgmaBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "372104265293-m6nlg576p5jkfg7vksvr8lth8v9euelk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
